@@ -1,2 +1,2 @@
-# ca texture pack
-texture pack for the ca rp server
+# taco bell
+a very shitty texture pack
