@@ -1,8 +1,8 @@
 {
-	"name": "CA-texture-pack",
-	"displayName": "ca-texture-pack",
-	"author":"bloop and rogl",
-	"description": "changes some sprite so they are better for rps",
+	"name": "tacobell",
+	"displayName": "tacobell",
+	"author":"bloop",
+	"description": "TACO BELL",
 	"version": "1.4",
 	"minGameVersion": 140,
 	"hidden": true
